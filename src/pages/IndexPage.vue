@@ -5,6 +5,7 @@
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 400px"
     >
+    <p>ภาษาไทย</p>
   </q-page>
 </template>
 
