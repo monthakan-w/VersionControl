@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          monthakan406
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
